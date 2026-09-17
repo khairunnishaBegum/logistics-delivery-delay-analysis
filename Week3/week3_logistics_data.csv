@@ -1,0 +1,151 @@
+Order_ID,Distance_km,Traffic,Weather,Delivery_Time_min,Delivery_Cost,Customer_Rating,Delivery_Status
+1001,9.99,Low,Rain,46,69.96,4.6,On Time
+1002,23.82,Low,Rain,75,125.28,4.4,Delayed
+1003,18.57,High,Rain,78,104.28,3.2,Delayed
+1004,15.37,Medium,Rain,60,91.48,3.2,On Time
+1005,4.74,Medium,Clear,38,48.96,5.0,On Time
+1006,4.74,Low,Storm,38,48.96,3.7,On Time
+1007,2.39,Jam,Rain,51,39.56,3.7,On Time
+1008,21.79,Medium,Storm,81,117.16,4.6,Delayed
+1009,15.43,Jam,Storm,86,91.72,4.9,Delayed
+1010,17.99,Medium,Rain,67,101.96,5.0,On Time
+1011,1.49,Jam,Clear,38,35.96,4.5,On Time
+1012,24.28,High,Rain,87,127.12,3.8,Delayed
+1013,20.98,Jam,Clear,81,113.92,3.2,Delayed
+1014,6.1,High,Storm,61,54.4,4.6,On Time
+1015,5.36,High,Clear,48,51.44,4.1,On Time
+1016,5.4,Jam,Clear,50,51.6,3.8,On Time
+1017,8.3,High,Clear,51,63.2,4.8,On Time
+1018,13.59,Low,Storm,57,84.36,3.2,On Time
+1019,11.37,High,Storm,63,75.48,4.0,On Time
+1020,7.99,Medium,Clear,40,61.96,3.0,On Time
+1021,15.68,Jam,Clear,72,92.72,3.9,Delayed
+1022,4.35,Low,Rain,40,47.4,3.1,On Time
+1023,8.01,Jam,Clear,60,62.04,3.2,On Time
+1024,9.79,Medium,Rain,52,69.16,3.2,On Time
+1025,11.95,Medium,Clear,48,77.8,4.3,On Time
+1026,19.84,Medium,Rain,70,109.36,4.5,On Time
+1027,5.79,High,Storm,53,53.16,4.2,On Time
+1028,13.34,High,Clear,58,83.36,4.9,On Time
+1029,15.22,Jam,Clear,74,90.88,3.7,Delayed
+1030,2.11,Jam,Clear,48,38.44,3.6,On Time
+1031,15.58,Low,Clear,48,92.32,4.7,On Time
+1032,5.09,Low,Rain,41,50.36,3.4,On Time
+1033,2.56,Jam,Clear,40,40.24,4.9,On Time
+1034,23.77,High,Storm,95,125.08,3.0,Delayed
+1035,24.18,Medium,Storm,84,126.72,4.9,Delayed
+1036,20.4,Jam,Clear,79,111.6,3.1,Delayed
+1037,8.31,Low,Storm,51,63.24,4.8,On Time
+1038,3.34,High,Clear,41,43.36,4.1,On Time
+1039,17.42,Jam,Clear,71,99.68,5.0,Delayed
+1040,11.56,Jam,Storm,70,76.24,3.1,On Time
+1041,3.93,High,Clear,46,45.72,4.1,On Time
+1042,12.88,Jam,Storm,76,81.52,4.9,Delayed
+1043,1.83,High,Rain,46,37.32,4.0,On Time
+1044,22.82,Medium,Clear,67,121.28,4.3,On Time
+1045,7.21,High,Rain,51,58.84,4.4,On Time
+1046,16.9,High,Storm,74,97.6,3.9,Delayed
+1047,8.48,High,Rain,52,63.92,4.3,On Time
+1048,13.48,Jam,Rain,71,83.92,4.2,Delayed
+1049,14.12,Jam,Storm,85,86.48,4.8,Delayed
+1050,5.44,High,Rain,50,51.76,3.1,On Time
+1051,24.27,Jam,Rain,93,127.08,3.6,Delayed
+1052,19.6,Low,Storm,66,108.4,4.9,On Time
+1053,23.55,Low,Rain,69,124.2,4.8,On Time
+1054,22.48,Jam,Storm,99,119.92,3.9,Delayed
+1055,15.35,Jam,Rain,82,91.4,4.2,Delayed
+1056,23.12,High,Storm,96,122.48,3.6,Delayed
+1057,3.12,Medium,Storm,39,42.48,3.4,On Time
+1058,5.7,Jam,Rain,55,52.8,3.9,On Time
+1059,2.09,Low,Rain,27,38.36,3.7,On Time
+1060,8.81,High,Rain,55,65.24,4.2,On Time
+1061,10.33,Jam,Clear,62,71.32,3.2,On Time
+1062,7.51,Low,Clear,30,60.04,4.9,On Time
+1063,20.89,Low,Clear,66,113.56,5.0,On Time
+1064,9.56,Medium,Storm,58,68.24,4.4,On Time
+1065,7.74,High,Rain,59,60.96,4.1,On Time
+1066,14.02,High,Storm,77,86.08,3.6,Delayed
+1067,4.38,Medium,Clear,38,47.52,4.6,On Time
+1068,20.25,Medium,Rain,68,111.0,4.4,On Time
+1069,2.79,High,Storm,48,41.16,3.3,On Time
+1070,24.69,High,Rain,92,128.76,4.8,Delayed
+1071,19.53,Jam,Storm,92,108.12,4.6,Delayed
+1072,5.77,Jam,Rain,57,53.08,4.9,On Time
+1073,1.13,Medium,Clear,31,34.52,4.5,On Time
+1074,20.57,Jam,Clear,80,112.28,4.2,Delayed
+1075,17.96,Low,Rain,59,101.84,3.8,On Time
+1076,18.5,Jam,Storm,94,104.0,4.9,Delayed
+1077,19.51,Jam,Clear,81,108.04,4.7,Delayed
+1078,2.78,Low,Clear,24,41.12,3.1,On Time
+1079,9.6,Medium,Clear,47,68.4,3.1,On Time
+1080,3.78,Low,Rain,34,45.12,3.8,On Time
+1081,21.71,Jam,Rain,93,116.84,4.6,Delayed
+1082,15.96,Medium,Storm,67,93.84,5.0,On Time
+1083,8.94,Jam,Storm,74,65.76,3.3,Delayed
+1084,2.53,Low,Storm,36,40.12,4.2,On Time
+1085,8.46,Low,Rain,47,63.84,3.8,On Time
+1086,8.8,Jam,Rain,67,65.2,4.9,On Time
+1087,18.51,High,Storm,79,104.04,4.7,Delayed
+1088,16.3,High,Storm,73,95.2,4.7,Delayed
+1089,22.29,Low,Rain,69,119.16,3.9,On Time
+1090,12.33,Low,Storm,55,79.32,3.8,On Time
+1091,3.87,High,Clear,37,45.48,3.5,On Time
+1092,18.12,High,Rain,71,102.48,3.1,Delayed
+1093,19.26,Jam,Storm,92,107.04,4.7,Delayed
+1094,14.47,Jam,Rain,78,87.88,4.6,Delayed
+1095,19.5,High,Clear,73,108.0,5.0,Delayed
+1096,12.85,Jam,Rain,72,81.4,5.0,Delayed
+1097,13.55,Jam,Rain,69,84.2,4.1,On Time
+1098,11.26,Medium,Rain,56,75.04,4.5,On Time
+1099,1.61,Jam,Rain,51,36.44,4.9,On Time
+1100,3.59,Low,Clear,30,44.36,4.7,On Time
+1101,1.75,Jam,Rain,48,37.0,3.5,On Time
+1102,16.27,Jam,Rain,83,95.08,3.9,Delayed
+1103,8.54,High,Storm,57,64.16,3.3,On Time
+1104,13.21,Low,Rain,48,82.84,4.9,On Time
+1105,22.78,Jam,Storm,96,121.12,4.2,Delayed
+1106,6.98,Jam,Clear,57,57.92,3.5,On Time
+1107,10.85,Medium,Clear,47,73.4,4.3,On Time
+1108,19.13,Jam,Clear,83,106.52,4.2,Delayed
+1109,6.49,Jam,Clear,50,55.96,3.7,On Time
+1110,2.85,Medium,Storm,38,41.4,3.2,On Time
+1111,7.95,High,Rain,54,61.8,4.3,On Time
+1112,4.87,Jam,Clear,53,49.48,4.0,On Time
+1113,23.31,Medium,Rain,76,123.24,4.5,Delayed
+1114,20.39,Low,Storm,76,111.56,4.0,Delayed
+1115,16.2,High,Storm,78,94.8,4.7,Delayed
+1116,21.92,Low,Storm,74,117.68,4.1,Delayed
+1117,20.29,Low,Clear,58,111.16,4.1,On Time
+1118,5.48,Medium,Rain,47,51.92,4.8,On Time
+1119,22.42,Jam,Rain,91,119.68,3.8,Delayed
+1120,13.94,Medium,Rain,59,85.76,3.3,On Time
+1121,20.38,Medium,Storm,75,111.52,3.1,Delayed
+1122,22.51,Medium,Clear,73,120.04,4.5,Delayed
+1123,8.63,Medium,Storm,52,64.52,4.2,On Time
+1124,3.64,High,Storm,57,44.56,4.4,On Time
+1125,6.47,Jam,Rain,59,55.88,3.4,On Time
+1126,11.25,Low,Storm,52,75.0,3.3,On Time
+1127,20.63,Low,Rain,67,112.52,3.0,On Time
+1128,21.66,Jam,Clear,84,116.64,3.7,Delayed
+1129,1.17,Low,Rain,32,34.68,4.2,On Time
+1130,13.26,Jam,Clear,68,83.04,3.8,On Time
+1131,11.02,Low,Rain,48,74.08,3.9,On Time
+1132,6.33,Medium,Storm,54,55.32,4.8,On Time
+1133,3.88,Low,Storm,44,45.52,3.7,On Time
+1134,9.1,Jam,Clear,59,66.4,4.0,On Time
+1135,23.63,Jam,Clear,91,124.52,4.6,Delayed
+1136,8.76,Jam,Clear,57,65.04,3.8,On Time
+1137,13.45,Jam,Rain,71,83.8,4.2,Delayed
+1138,17.87,Jam,Rain,84,101.48,4.7,Delayed
+1139,9.73,High,Clear,57,68.92,4.9,On Time
+1140,24.32,High,Storm,99,127.28,3.3,Delayed
+1141,24.1,Low,Rain,71,126.4,4.9,Delayed
+1142,7.04,Jam,Rain,64,58.16,4.0,On Time
+1143,12.93,Low,Rain,57,81.72,3.5,On Time
+1144,8.22,Jam,Clear,60,62.88,3.9,On Time
+1145,7.84,Jam,Clear,51,61.36,5.0,On Time
+1146,1.89,High,Clear,37,37.56,4.0,On Time
+1147,15.63,High,Clear,65,92.52,3.7,On Time
+1148,13.06,Medium,Clear,53,82.24,4.3,On Time
+1149,2.24,High,Storm,53,38.96,3.5,On Time
+1150,7.69,Medium,Storm,55,60.76,3.2,On Time
